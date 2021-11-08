@@ -44,7 +44,7 @@ public class ScoreAdder : MonoBehaviour {
          else{
              addScore(-pointsToAdd, other);
              addText(-pointsToAdd);
-             if(scoreField.GetNumber() == 0){
+             if(scoreField.GetNumber() <= 0){
                 SceneManager.LoadScene(sceneName);
                 }
             }
