@@ -20,6 +20,6 @@ C- עבור קוביה צהובה.
 כמו כן, בעת לחיצה על המקשים משתנה צבע התחתית בהתאם לכל מקש.
 שינוי הצבע נעשה בעזרת הסקריפט [changeColors](https://github.com/sivanyahav/GuitarHero/blob/master/Assets/Scripts/ChangeColor.cs).
 
-לחצו כאן כדי לשחק במשחק, תהנו :) 
+לחצו [כאן](https://s-k-games.itch.io/guitarhero) כדי לשחק במשחק, תהנו :) 
 </div>
 
